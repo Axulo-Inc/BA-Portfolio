@@ -13,7 +13,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
     
-    - name: Display Portfolio Information
+    - name: Portfolio Status Check
       run: |
         echo "🎯 Portfolio Status Check"
         echo "========================"
@@ -23,20 +23,12 @@ jobs:
         echo "📅 Last updated: $(date)"
         echo ""
         echo "📁 Case Studies Found:"
-        count=0
-        for dir in case-studies/*/; do
-          if [ -d "$dir" ]; then
-            dir_name=$(basename "$dir")
-            echo "  ✓ $dir_name"
-            ((count++))
-          fi
+        ls -d case-studies/*/ 2>/dev/null | while read dir; do
+          dir_name=$(basename "$dir")
+          echo "  ✓ $dir_name"
         done
         echo ""
-        echo "📈 Total Case Studies: $count"
-        echo "✅ Portfolio structure is valid"
-        echo ""
-        # Check for README files
         echo "📄 README Files:"
-        find . -name "README.md" -type f | head -5 | while read file; do
-          echo "  - $file"
-        done
+        find . -name "README.md" -type f | head -3
+        echo ""
+        echo "✅ Portfolio structure is valid"

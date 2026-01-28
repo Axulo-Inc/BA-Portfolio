@@ -1,0 +1,3 @@
+-- Database Schema
+-- Mining operations database
+-- To be completed

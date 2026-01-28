@@ -79,3 +79,15 @@ Comprehensive testing strategy with test scenarios covering functional, integrat
 
 ## Contact
 For more information about this case study or similar business analysis work, please contact the portfolio owner.
+
+## 📋 Project Artifacts
+This case study includes comprehensive documentation:
+
+| Artifact | Description | Lines |
+|----------|-------------|-------|
+| [User Requirements Document](./documents/urd.md) | Business requirements with user stories | 293 |
+| [API Documentation](./artifacts/api-docs.md) | REST API specifications | 137 |
+| [System Architecture](./artifacts/architecture.md) | Microservices design | 78 |
+| [Test Cases](./artifacts/test-cases.md) | Testing strategy & scenarios | 113 |
+
+**Total Documentation:** 621 lines of professional business analysis artifacts

@@ -1,34 +1,61 @@
 # Test Cases
 ## Safety & Risk Management System
 
+---
+
 ## 1. Testing Strategy
 
 ### 1.1 Testing Levels
-- **Unit Testing:** Individual components/services (pytest, Jest)
-- **Integration Testing:** Service-to-service communication, database interactions
-- **API Testing:** REST endpoints validation (Postman, pytest)
-- **UI Testing:** Mobile app and web dashboard (Appium, Cypress)
-- **Performance Testing:** Load, stress, and scalability (Locust, k6)
-- **Security Testing:** Authentication, authorization, data protection (OWASP ZAP, SonarQube)
-- **User Acceptance Testing:** End-to-end business scenarios with stakeholders
-- **Accessibility Testing:** WCAG 2.1 AA compliance (axe-core)
+
+#### 1.1.1 Unit Testing
+- Scope: Individual components and services  
+- Tools: pytest, Jest  
+
+#### 1.1.2 Integration Testing
+- Scope: Service-to-service communication  
+- Scope: Database interactions  
+
+#### 1.1.3 API Testing
+- Scope: REST endpoint validation  
+- Tools: Postman, pytest  
+
+#### 1.1.4 UI Testing
+- Scope: Mobile application  
+- Scope: Web dashboard  
+- Tools: Appium, Cypress  
+
+#### 1.1.5 Performance Testing
+- Scope: Load testing  
+- Scope: Stress testing  
+- Scope: Scalability testing  
+- Tools: Locust, k6  
+
+#### 1.1.6 Security Testing
+- Scope: Authentication  
+- Scope: Authorization  
+- Scope: Data protection  
+- Tools: OWASP ZAP, SonarQube  
+
+#### 1.1.7 User Acceptance Testing (UAT)
+- Scope: End-to-end business scenarios  
+- Participants: Business stakeholders  
+
+#### 1.1.8 Accessibility Testing
+- Standard: WCAG 2.1 AA  
+- Tools: axe-core  
+
+---
 
 ### 1.2 Testing Environment Strategy
-┌─────────────────────────────────────────────────┐
-│ Testing Environment Matrix │
-├─────────┬──────────┬──────────┬────────────────┤
-│ │ Dev │ QA │ Staging │
-├─────────┼──────────┼──────────┼────────────────┤
-│ Purpose │ Dev/Unit │ Integration│ Pre-production│
-│ │ Testing │ Testing │ Testing │
-├─────────┼──────────┼──────────┼────────────────┤
-│ Data │ Synthetic│ Synthetic│ Anonymized │
-│ │ │ │ Production │
-├─────────┼──────────┼──────────┼────────────────┤
-│ Refresh │ Daily │ Weekly │ Monthly │
-└─────────┴──────────┴──────────┴────────────────┘
 
-text
+#### 1.2.1 Environment Matrix
+
+| Environment | Purpose                    | Data Type                  | Refresh Cycle |
+|------------|----------------------------|----------------------------|---------------|
+| Dev        | Development / Unit Testing | Synthetic Data             | Daily         |
+| QA         | Integration Testing        | Synthetic Data             | Weekly        |
+| Staging    | Pre-production Testing     | Anonymized Production Data | Monthly       |
+
 
 ## 2. Functional Test Cases
 

@@ -12,8 +12,9 @@ I translate **complex operational problems** into **structured requirements, mea
 https://github.com/Axulo-Inc/Business-Analyst-Portfolio-Operations-Safety-Data
 
 **Proven Impact Across Case Studies:**  
-⏱️ 12% downtime reduction · 🛡️ 40% safety reporting efficiency · 👁️ Real-time compliance visibility
+⏱️ 12% downtime reduction · 🛡️ 40% safety reporting efficiency · 👁️ Real-time compliance visibility  
 
+*Validated through documented requirements, KPIs, and stakeholder-aligned solutions.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Axulo-Inc/BA-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thabang-motsoahae-10272b96)
@@ -82,7 +83,8 @@ https://github.com/Axulo-Inc/Business-Analyst-Portfolio-Operations-Safety-Data
  
 **📧 Email:** [alfred_the_first@hotmail.com](mailto:alfred_the_first@hotmail.com)  
 **🔗 LinkedIn:** [Thabang Alfred Motsoahae](https://www.linkedin.com/in/thabang-motsoahae-10272b96)  
-**🌐 Portfolio:** [https://github.com/Axulo-Inc/BA-Portfolio](https://github.com/Axulo-Inc/Business-Analyst-Portfolio-Operations-Safety-Data)
+**🌐 Portfolio:** [https://github.com/Axulo-Inc/Business-Analyst-Portfolio-Operations-Safety-Data
+](https://github.com/Axulo-Inc/Business-Analyst-Portfolio-Operations-Safety-Data)
 
 ---
 

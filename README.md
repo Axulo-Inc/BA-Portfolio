@@ -1,4 +1,5 @@
-# 🎯 Business Analyst Portfolio
+# 🎯 Business Analyst Portfolio — Operations, Safety & Data
+
 ## Thabang Alfred Motsoahae
 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Axulo-Inc/BA-Portfolio)

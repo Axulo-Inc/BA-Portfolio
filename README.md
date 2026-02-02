@@ -1,6 +1,19 @@
 # 🎯 Business Analyst Portfolio — Operations, Safety & Data
 
-## Thabang Alfred Motsoahae
+**Thabang Alfred Motsoahae**  
+Business Analyst | Operations, Safety & Data Systems
+
+I translate **complex operational problems** into **structured requirements, measurable KPIs, and scalable digital solutions**. With a strong bias toward execution in **safety-critical, real-world environments**.
+
+📍 Johannesburg, South Africa  
+💼 Open to full-time, contract, and consulting roles  
+
+🔗 **Portfolio Repository:**  
+https://github.com/Axulo-Inc/Business-Analyst-Portfolio-Operations-Safety-Data
+
+**Proven Impact Across Case Studies:**  
+⏱️ 12% downtime reduction · 🛡️ 40% safety reporting efficiency · 👁️ Real-time compliance visibility
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Axulo-Inc/BA-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thabang-motsoahae-10272b96)
